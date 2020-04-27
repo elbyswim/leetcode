@@ -1,8 +1,8 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        memo = [[0] * len(text2)] * len(text1)
+        memo = [[0 for j in range(len(text2))] for i in range(len(text1))]
         for k in range(len(text1) + len(text2) - 1):
-            i = min(len(text1), k)
+            i = min(len(text1) - 1, k)
             j = k - i
             while i >= 0 and j < len(text2):
                 if i == 0 and j == 0:
@@ -19,4 +19,4 @@ class Solution:
 
 
 soln = Solution()
-print(soln.longestCommonSubsequence('abcde', 'ace'))
+print(soln.longestCommonSubsequence("ezupkr", "ubmrapg"))
