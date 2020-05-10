@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79fc3690-c22c-4ddc-904c-c6ee3821a4d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124_binary_tree_max_path_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38_count_and_say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/95_unique_bst_ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98_validate_bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_path_in_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/300_longest_increasing_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly_contest_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contest_188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly_contest_187.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Longest_Palindromic_Substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +67,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.38_count_and_say">
-    <configuration name="124_binary_tree_max_path_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.contest_188">
+    <configuration name="300_longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/124_binary_tree_max_path_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300_longest_increasing_subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="38_count_and_say" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="biweekly_contest_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38_count_and_say.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biweekly_contest_25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="95_unique_bst_ii" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contest_188" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/95_unique_bst_ii.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest_188.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="98_validate_bst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,16 +147,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/98_validate_bst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valid_path_in_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="weekly_contest_187" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valid_path_in_binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekly_contest_187.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +179,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.95_unique_bst_ii" />
-      <item itemvalue="Python.124_binary_tree_max_path_sum" />
-      <item itemvalue="Python.valid_path_in_binary_tree" />
-      <item itemvalue="Python.98_validate_bst" />
-      <item itemvalue="Python.38_count_and_say" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.biweekly_contest_25" />
+      <item itemvalue="Python.300_longest_increasing_subsequence" />
+      <item itemvalue="Python.weekly_contest_187" />
+      <item itemvalue="Python.contest_188" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.38_count_and_say" />
-        <item itemvalue="Python.98_validate_bst" />
-        <item itemvalue="Python.valid_path_in_binary_tree" />
-        <item itemvalue="Python.124_binary_tree_max_path_sum" />
-        <item itemvalue="Python.95_unique_bst_ii" />
+        <item itemvalue="Python.contest_188" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.weekly_contest_187" />
+        <item itemvalue="Python.biweekly_contest_25" />
+        <item itemvalue="Python.300_longest_increasing_subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +215,12 @@
       <workItem from="1588249983218" duration="747000" />
       <workItem from="1588299687515" duration="609000" />
       <workItem from="1588333739150" duration="185000" />
+      <workItem from="1588353021381" duration="339000" />
+      <workItem from="1588387774404" duration="5721000" />
+      <workItem from="1588435055660" duration="214000" />
+      <workItem from="1588470706839" duration="4642000" />
+      <workItem from="1588820697215" duration="545000" />
+      <workItem from="1589078595874" duration="1219000" />
     </task>
     <servers />
   </component>
@@ -234,68 +237,76 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1588308083241">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.0.bottom" timestamp="1589132070281">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588250381582" />
+    <state width="1638" height="327" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743607" />
     <state width="1878" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253514" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588299969842" />
+    <state width="1878" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070281" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588434540335" />
     <state width="1878" height="335" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453456" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083241" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1588308083240">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.0.center" timestamp="1589132070278">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588250381581" />
+    <state width="1638" height="327" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743606" />
     <state width="1878" height="339" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253513" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588299969840" />
+    <state width="1878" height="327" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070278" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588434540333" />
     <state width="1878" height="335" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453456" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083240" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1588308083239">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.0.left" timestamp="1589132070277">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588250381580" />
+    <state width="1638" height="327" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743605" />
     <state width="1878" height="339" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253512" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588299969840" />
+    <state width="1878" height="327" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070277" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588434540332" />
     <state width="1878" height="335" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453456" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083239" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1588308083240">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.0.right" timestamp="1589132070279">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588250381581" />
+    <state width="1638" height="327" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743606" />
     <state width="1878" height="339" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253513" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588299969841" />
+    <state width="1878" height="327" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070279" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588434540333" />
     <state width="1878" height="335" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453456" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083240" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom" timestamp="1588308083219">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.1.bottom" timestamp="1589132070286">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588250382105" />
+    <state width="1638" height="327" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743894" />
     <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253516" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588299968889" />
+    <state width="1878" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070286" />
+    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588433503921" />
     <state width="1878" height="335" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453457" />
     <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083219" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center" timestamp="1588308083217">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.1.center" timestamp="1589132070283">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588250382104" />
+    <state width="1638" height="327" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743892" />
     <state width="1878" height="339" key="GridCell.Tab.1.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253515" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588299968888" />
+    <state width="1878" height="327" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070283" />
+    <state width="1878" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588433503921" />
     <state width="1878" height="335" key="GridCell.Tab.1.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453457" />
     <state width="1878" height="339" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083217" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left" timestamp="1588308083209">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.1.left" timestamp="1589132070282">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588250382103" />
+    <state width="1638" height="327" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743891" />
     <state width="1878" height="339" key="GridCell.Tab.1.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253514" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588299968887" />
+    <state width="1878" height="327" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070282" />
+    <state width="1878" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588433503920" />
     <state width="1878" height="335" key="GridCell.Tab.1.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453457" />
     <state width="1878" height="339" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083209" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right" timestamp="1588308083218">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="327" key="GridCell.Tab.1.right" timestamp="1589132070285">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="339" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588250382104" />
+    <state width="1638" height="327" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743893" />
     <state width="1878" height="339" key="GridCell.Tab.1.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588270253516" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588299968888" />
+    <state width="1878" height="327" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070285" />
+    <state width="1878" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588433503921" />
     <state width="1878" height="335" key="GridCell.Tab.1.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588096453457" />
     <state width="1878" height="339" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083218" />
     <state x="540" y="121" width="600" height="807" key="find.popup" timestamp="1588168105585">
@@ -435,6 +446,46 @@
           <line>22</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/biweekly_contest_25.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/300_longest_increasing_subsequence.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/contest_188.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -444,21 +495,19 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="number[first]" language="Python" />
-        <watch expression="number[last]" language="Python" />
-        <watch expression="last - first" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1588820743147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$98_validate_bst.coverage" NAME="98_validate_bst Coverage Results" MODIFIED="1588250381388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1588095981186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$valid_path_in_binary_tree.coverage" NAME="valid_path_in_binary_tree Coverage Results" MODIFIED="1588248882182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_187.coverage" NAME="weekly_contest_187 Coverage Results" MODIFIED="1588478034084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$contest_188.coverage" NAME="contest_188 Coverage Results" MODIFIED="1589079684013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$124_binary_tree_max_path_sum.coverage" NAME="124_binary_tree_max_path_sum Coverage Results" MODIFIED="1588170963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$211_maximal_square.coverage" NAME="211_maximal_square Coverage Results" MODIFIED="1588095974047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$95_unique_bst_ii.coverage" NAME="95_unique_bst_ii Coverage Results" MODIFIED="1588099675484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1588470870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_contest_25.coverage" NAME="biweekly_contest_25 Coverage Results" MODIFIED="1588471665687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$38_count_and_say.coverage" NAME="38_count_and_say Coverage Results" MODIFIED="1588299969832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

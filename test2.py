@@ -1,24 +1,31 @@
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+def longestCommonSubsequence(str1, str2):
+    # Write your code here.
+    if len(str1) == 0 or len(str2) == 0:
+        return []
+    memo = [[[] for _ in range(len(str2))] for _ in range(len(str1))]
+    for i in range(len(str1)):
+        for j in range(len(str2)):
+            if i == j == 0:
+                if str1[i] == str2[j]:
+                    memo[i][j].append(str1[i])
+            elif i == 0:
+                if str1[i] == str2[j]:
+                    memo[i][j].append(str1[i])
+                else:
+                    memo[i][j] = memo[i][j - 1]
+            elif j == 0:
+                if str1[i] == str2[j]:
+                    memo[i][j].append(str1[i])
+                else:
+                    memo[i][j] = memo[i - 1][j]
+            if i != 0 and j != 0:
+                if str1[i] == str2[j]:
+                    memo[i][j] = memo[i - 1][j - 1] + [str1[i]]
+                elif len(memo[i - 1][j]) <= len(memo[i][j - 1]):
+                    memo[i][j] = memo[i][j - 1]
+                else:
+                    memo[i][j] = memo[i - 1][j]
+    return memo[len(str1) - 1][len(str2) - 1]
 
 
-class Solution:
-    def isValidSequence(self, root: TreeNode, arr, i=0):
-        if (not root) and i >= len(arr):
-            return True
-        if root and i < len(arr):
-            if root.val == arr[i]:
-                return self.isValidSequence(root.left, arr, i + 1) or self.isValidSequence(root.right, arr, i + 1)
-        return False
-
-
-test = TreeNode(0,
-                TreeNode(1,
-                         TreeNode(0, None, TreeNode(1)),
-                         TreeNode(1, TreeNode(0), TreeNode(0))),
-                TreeNode(0, TreeNode(0)))
-soln = Solution()
-print(soln.isValidSequence(test, [0, 1, 0, 1]))
+print(longestCommonSubsequence('apples', 'abcde'))
