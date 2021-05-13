@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79fc3690-c22c-4ddc-904c-c6ee3821a4d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/368_largest_divisible_subset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/406_queue_reconstruction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45_jump_game_ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/518_coin_change_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/528_random_index_with_weights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/72_edit_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/787_cheapest_flight_cost_with_stops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/886_possible_bipartition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/901_online_stock_span.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/986_intersecting_intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly_28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_contest_190.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_contest_191.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_contest_192.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/130_surrounded_regions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/174_dungeon_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/263_ugly_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/463_island_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/957_prison_cells_after_n_days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biweekly 51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weekly 239.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weekly 240.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCryptSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly_198.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly_contest_193.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly_contest_195.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly_contest_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/biweekly_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contest_188.py" beforeDir="false" afterPath="$PROJECT_DIR$/weekly_contest_188.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -78,12 +76,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.787_cheapest_flight_cost_with_stops">
-    <configuration name="368_largest_divisible_subset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Weekly 240">
+    <configuration name="Biweekly 51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/368_largest_divisible_subset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Biweekly 51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Weekly 239" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly 239.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="518_coin_change_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Weekly 240" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/518_coin_change_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly 240.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="787_cheapest_flight_cost_with_stops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="isCryptSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/787_cheapest_flight_cost_with_stops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isCryptSolution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="biweekly_28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="math135" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,29 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biweekly_28.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="weekly_contest_192" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekly_contest_192.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math135.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,22 +195,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.weekly_contest_192" />
-      <item itemvalue="Python.518_coin_change_2" />
-      <item itemvalue="Python.biweekly_28" />
-      <item itemvalue="Python.368_largest_divisible_subset" />
-      <item itemvalue="Python.787_cheapest_flight_cost_with_stops" />
+      <item itemvalue="Python.isCryptSolution" />
+      <item itemvalue="Python.math135" />
+      <item itemvalue="Python.Biweekly 51" />
+      <item itemvalue="Python.Weekly 239" />
+      <item itemvalue="Python.Weekly 240" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.787_cheapest_flight_cost_with_stops" />
-        <item itemvalue="Python.368_largest_divisible_subset" />
-        <item itemvalue="Python.biweekly_28" />
-        <item itemvalue="Python.518_coin_change_2" />
-        <item itemvalue="Python.weekly_contest_192" />
+        <item itemvalue="Python.Weekly 240" />
+        <item itemvalue="Python.Weekly 239" />
+        <item itemvalue="Python.Biweekly 51" />
+        <item itemvalue="Python.Biweekly 51" />
+        <item itemvalue="Python.math135" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -265,7 +267,39 @@
       <workItem from="1591759900982" duration="596000" />
       <workItem from="1592058811500" duration="1035000" />
       <workItem from="1592060810225" duration="4687000" />
-      <workItem from="1592152850025" duration="1506000" />
+      <workItem from="1592152850025" duration="1548000" />
+      <workItem from="1592265917887" duration="172000" />
+      <workItem from="1592423546923" duration="1748000" />
+      <workItem from="1592590466781" duration="169000" />
+      <workItem from="1592593512920" duration="29000" />
+      <workItem from="1592707298719" duration="1448000" />
+      <workItem from="1592761272074" duration="1875000" />
+      <workItem from="1592879240565" duration="201000" />
+      <workItem from="1592935912928" duration="275000" />
+      <workItem from="1593268607349" duration="807000" />
+      <workItem from="1593311029030" duration="7000" />
+      <workItem from="1593311052101" duration="552000" />
+      <workItem from="1593315422036" duration="133000" />
+      <workItem from="1593315905283" duration="37000" />
+      <workItem from="1593807821590" duration="794000" />
+      <workItem from="1593879480550" duration="321000" />
+      <workItem from="1594139138698" duration="269000" />
+      <workItem from="1594434923212" duration="15000" />
+      <workItem from="1595126336290" duration="343000" />
+      <workItem from="1596323343906" duration="21000" />
+      <workItem from="1602875639967" duration="1098000" />
+      <workItem from="1602995449551" duration="988000" />
+      <workItem from="1603130174276" duration="940000" />
+      <workItem from="1603153495349" duration="9000" />
+      <workItem from="1603166655341" duration="480000" />
+      <workItem from="1605931668605" duration="836000" />
+      <workItem from="1606788387335" duration="6000" />
+      <workItem from="1619880232728" duration="2269000" />
+      <workItem from="1619922312756" duration="3086000" />
+      <workItem from="1620246934401" duration="22000" />
+      <workItem from="1620247008037" duration="34000" />
+      <workItem from="1620247273033" duration="53000" />
+      <workItem from="1620527389313" duration="1527000" />
     </task>
     <servers />
   </component>
@@ -279,104 +313,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1878" height="308" key="GridCell.Tab.0.bottom" timestamp="1592158839735">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743607" />
-    <state width="1878" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060173876" />
-    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589643832966" />
-    <state width="1878" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070281" />
-    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589815953077" />
-    <state width="1878" height="308" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839735" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083241" />
-    <state width="1878" height="308" key="GridCell.Tab.0.center" timestamp="1592158839734">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743606" />
-    <state width="1878" height="301" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060173874" />
-    <state width="1878" height="303" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589643832964" />
-    <state width="1878" height="327" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070278" />
-    <state width="1878" height="302" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589815953076" />
-    <state width="1878" height="308" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839734" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083240" />
-    <state width="1878" height="308" key="GridCell.Tab.0.left" timestamp="1592158839734">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743605" />
-    <state width="1878" height="301" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060173873" />
-    <state width="1878" height="303" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589643832963" />
-    <state width="1878" height="327" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070277" />
-    <state width="1878" height="302" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589815953076" />
-    <state width="1878" height="308" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839734" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083239" />
-    <state width="1878" height="308" key="GridCell.Tab.0.right" timestamp="1592158839735">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743606" />
-    <state width="1878" height="301" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060173875" />
-    <state width="1878" height="303" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589643832965" />
-    <state width="1878" height="327" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070279" />
-    <state width="1878" height="302" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589815953077" />
-    <state width="1878" height="308" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839735" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083240" />
-    <state width="1878" height="308" key="GridCell.Tab.1.bottom" timestamp="1592158839737">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743894" />
-    <state width="1878" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060095923" />
-    <state width="1878" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589642939553" />
-    <state width="1878" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070286" />
-    <state width="1878" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589815952071" />
-    <state width="1878" height="308" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839737" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083219" />
-    <state width="1878" height="308" key="GridCell.Tab.1.center" timestamp="1592158839736">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743892" />
-    <state width="1878" height="325" key="GridCell.Tab.1.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060095922" />
-    <state width="1878" height="327" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589642939552" />
-    <state width="1878" height="327" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070283" />
-    <state width="1878" height="326" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589815952070" />
-    <state width="1878" height="308" key="GridCell.Tab.1.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839736" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083217" />
-    <state width="1878" height="308" key="GridCell.Tab.1.left" timestamp="1592158839736">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743891" />
-    <state width="1878" height="325" key="GridCell.Tab.1.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060095921" />
-    <state width="1878" height="327" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589642939551" />
-    <state width="1878" height="327" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070282" />
-    <state width="1878" height="326" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589815952070" />
-    <state width="1878" height="308" key="GridCell.Tab.1.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839736" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083209" />
-    <state width="1878" height="308" key="GridCell.Tab.1.right" timestamp="1592158839736">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1638" height="327" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588820743893" />
-    <state width="1878" height="325" key="GridCell.Tab.1.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592060095922" />
-    <state width="1878" height="327" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.-36.1920.1200@0.0.1920.1080" timestamp="1589642939553" />
-    <state width="1878" height="327" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1200@0.0.1920.1080" timestamp="1589132070285" />
-    <state width="1878" height="326" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589815952071" />
-    <state width="1878" height="308" key="GridCell.Tab.1.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158839736" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588308083218" />
-    <state x="469" y="190" key="SettingsEditor" timestamp="1592158887824">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1592158887824" />
-    <state x="617" y="124" width="686" height="831" key="find.popup" timestamp="1590951138775">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="540" y="121" width="600" height="807" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1588168105585" />
-    <state x="617" y="124" width="686" height="831" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1590951138775" />
-    <state x="617" y="124" width="686" height="831" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589815668622" />
-    <state x="577" y="240" width="766" height="696" key="search.everywhere.popup" timestamp="1590894995920">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1588250103122" />
-    <state x="577" y="240" width="766" height="696" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1590894995920" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -651,6 +588,61 @@
           <line>43</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/130_surrounded_regions.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_contest_193.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/174_dungeon_game.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/174_dungeon_game.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_contest_195.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/957_prison_cells_after_n_days.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/957_prison_cells_after_n_days.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/463_island_number.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weekly_198.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Weekly 239.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Weekly 239.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -662,39 +654,53 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$733_flood_fill.coverage" NAME="733_flood_fill Coverage Results" MODIFIED="1589221370488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$valid_path_in_binary_tree.coverage" NAME="valid_path_in_binary_tree Coverage Results" MODIFIED="1588248882182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_187.coverage" NAME="weekly_contest_187 Coverage Results" MODIFIED="1588478034084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$901_online_stock_span.coverage" NAME="901_online_stock_span Coverage Results" MODIFIED="1589901367034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$211_maximal_square.coverage" NAME="211_maximal_square Coverage Results" MODIFIED="1588095974047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_26.coverage" NAME="biweekly_26 Coverage Results" MODIFIED="1589643134853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_192.coverage" NAME="weekly_contest_192 Coverage Results" MODIFIED="1591497541455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$98_validate_bst.coverage" NAME="98_validate_bst Coverage Results" MODIFIED="1588250381388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_189.coverage" NAME="weekly_contest_189 Coverage Results" MODIFIED="1589683906676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$986_intersecting_intervals.coverage" NAME="986_intersecting_intervals Coverage Results" MODIFIED="1590248071212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$263_ugly_number.coverage" NAME="263_ugly_number Coverage Results" MODIFIED="1593879645967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$contest_188.coverage" NAME="contest_188 Coverage Results" MODIFIED="1589079684013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$567_permutation_in_string.coverage" NAME="567_permutation_in_string Coverage Results" MODIFIED="1589815953067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$124_binary_tree_max_path_sum.coverage" NAME="124_binary_tree_max_path_sum Coverage Results" MODIFIED="1588170963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$368_largest_divisible_subset.coverage" NAME="368_largest_divisible_subset Coverage Results" MODIFIED="1592069894303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_27.coverage" NAME="biweekly_27 Coverage Results" MODIFIED="1590856463978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1588470870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$528_random_index_with_weights.coverage" NAME="528_random_index_with_weights Coverage Results" MODIFIED="1591364740917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Weekly_239.coverage" NAME="Weekly 239 Coverage Results" MODIFIED="1619925246498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$986_intersecting_intervals.coverage" NAME="986_intersecting_intervals Coverage Results" MODIFIED="1590248071212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Biweekly_51.coverage" NAME="Biweekly 51 Coverage Results" MODIFIED="1619881748991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_26.coverage" NAME="biweekly_26 Coverage Results" MODIFIED="1589643134853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_198.coverage" NAME="weekly_198 Coverage Results" MODIFIED="1602875813656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_190.coverage" NAME="weekly_contest_190 Coverage Results" MODIFIED="1590289562540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_191.coverage" NAME="weekly_contest_191 Coverage Results" MODIFIED="1590896838962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$72_edit_distance.coverage" NAME="72_edit_distance Coverage Results" MODIFIED="1590951141461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$45_jump_game_ii.coverage" NAME="45_jump_game_ii Coverage Results" MODIFIED="1591306079810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_contest_25.coverage" NAME="biweekly_contest_25 Coverage Results" MODIFIED="1588471665687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$406_queue_reconstruction.coverage" NAME="406_queue_reconstruction Coverage Results" MODIFIED="1591464307935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$518_coin_change_2.coverage" NAME="518_coin_change_2 Coverage Results" MODIFIED="1591575887988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$38_count_and_say.coverage" NAME="38_count_and_say Coverage Results" MODIFIED="1588299969832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1588820743147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$787_cheapest_flight_cost_with_stops.coverage" NAME="787_cheapest_flight_cost_with_stops Coverage Results" MODIFIED="1592154050699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$438_find_all_anagrams.coverage" NAME="438_find_all_anagrams Coverage Results" MODIFIED="1589740703726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$886_possible_bipartition.coverage" NAME="886_possible_bipartition Coverage Results" MODIFIED="1590591945163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_28.coverage" NAME="biweekly_28 Coverage Results" MODIFIED="1592064584870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_29.coverage" NAME="biweekly_29 Coverage Results" MODIFIED="1593269331333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$isCryptSolution.coverage" NAME="isCryptSolution Coverage Results" MODIFIED="1603166692911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$math135.coverage" NAME="math135 Coverage Results" MODIFIED="1605931899251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1588095981186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$368_largest_divisible_subset.coverage" NAME="368_largest_divisible_subset Coverage Results" MODIFIED="1592069894303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1588820743147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$438_find_all_anagrams.coverage" NAME="438_find_all_anagrams Coverage Results" MODIFIED="1589740703726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$211_maximal_square.coverage" NAME="211_maximal_square Coverage Results" MODIFIED="1588095974047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$45_jump_game_ii.coverage" NAME="45_jump_game_ii Coverage Results" MODIFIED="1591306079810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$901_online_stock_span.coverage" NAME="901_online_stock_span Coverage Results" MODIFIED="1589901367034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$174_dungeon_game.coverage" NAME="174_dungeon_game Coverage Results" MODIFIED="1592763349911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$463_island_number.coverage" NAME="463_island_number Coverage Results" MODIFIED="1594139335620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$518_coin_change_2.coverage" NAME="518_coin_change_2 Coverage Results" MODIFIED="1591575887988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_contest_25.coverage" NAME="biweekly_contest_25 Coverage Results" MODIFIED="1588471665687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$886_possible_bipartition.coverage" NAME="886_possible_bipartition Coverage Results" MODIFIED="1590591945163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_193.coverage" NAME="weekly_contest_193 Coverage Results" MODIFIED="1592709010092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1588470870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_187.coverage" NAME="weekly_contest_187 Coverage Results" MODIFIED="1588478034084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_27.coverage" NAME="biweekly_27 Coverage Results" MODIFIED="1590856463978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$733_flood_fill.coverage" NAME="733_flood_fill Coverage Results" MODIFIED="1589221370488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$567_permutation_in_string.coverage" NAME="567_permutation_in_string Coverage Results" MODIFIED="1589815953067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$406_queue_reconstruction.coverage" NAME="406_queue_reconstruction Coverage Results" MODIFIED="1591464307935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$787_cheapest_flight_cost_with_stops.coverage" NAME="787_cheapest_flight_cost_with_stops Coverage Results" MODIFIED="1592154050699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Weekly_240.coverage" NAME="Weekly 240 Coverage Results" MODIFIED="1620528615453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$124_binary_tree_max_path_sum.coverage" NAME="124_binary_tree_max_path_sum Coverage Results" MODIFIED="1588170963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$957_prison_cells_after_n_days.coverage" NAME="957_prison_cells_after_n_days Coverage Results" MODIFIED="1593879533038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$208_implement_trie.coverage" NAME="208_implement_trie Coverage Results" MODIFIED="1589490224371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$95_unique_bst_ii.coverage" NAME="95_unique_bst_ii Coverage Results" MODIFIED="1588099675484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_189.coverage" NAME="weekly_contest_189 Coverage Results" MODIFIED="1589683906676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_191.coverage" NAME="weekly_contest_191 Coverage Results" MODIFIED="1590896838962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_195.coverage" NAME="weekly_contest_195 Coverage Results" MODIFIED="1593315468430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$38_count_and_say.coverage" NAME="38_count_and_say Coverage Results" MODIFIED="1588299969832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_192.coverage" NAME="weekly_contest_192 Coverage Results" MODIFIED="1591497541455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$valid_path_in_binary_tree.coverage" NAME="valid_path_in_binary_tree Coverage Results" MODIFIED="1588248882182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_28.coverage" NAME="biweekly_28 Coverage Results" MODIFIED="1592064584870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$402_remove_k_digits.coverage" NAME="402_remove_k_digits Coverage Results" MODIFIED="1589381926153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$528_random_index_with_weights.coverage" NAME="528_random_index_with_weights Coverage Results" MODIFIED="1591364740917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$130_surrounded_regions.coverage" NAME="130_surrounded_regions Coverage Results" MODIFIED="1592427356400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$95_unique_bst_ii.coverage" NAME="95_unique_bst_ii Coverage Results" MODIFIED="1588099675484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$98_validate_bst.coverage" NAME="98_validate_bst Coverage Results" MODIFIED="1588250381388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$72_edit_distance.coverage" NAME="72_edit_distance Coverage Results" MODIFIED="1590951141461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
