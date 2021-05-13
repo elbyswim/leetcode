@@ -2,21 +2,481 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79fc3690-c22c-4ddc-904c-c6ee3821a4d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/130_surrounded_regions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/174_dungeon_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_ugly_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/463_island_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/957_prison_cells_after_n_days.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biweekly 51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly 239.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly 240.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly_29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isCryptSolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_198.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_contest_193.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly_contest_195.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTCI/01 Arrays and Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1046_last_stone_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/11_most_water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/121_best_time_to_buy_and_sell_stocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/122_best_time_to_buy_and_sell_stock_ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/124_binary_tree_max_path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1252_odd_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1304_n_ints_sum_to_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/130_surrounded_regions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1390_four_divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1401_circle_and_rect_overlap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1419_min_number_of _frogs_croaking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/150_polish_notation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/174_dungeon_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/189_rotate_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/1_two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/208_implement_trie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/211_maximal_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/24_swap_nodes_in_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/263_ugly_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/300_longest_increasing_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/322_coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/33_rotated_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/368_largest_divisible_subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/36_valid_sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/38_count_and_say.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/402_remove_k_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/406_queue_reconstruction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/438_find_all_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/45_jump_game_ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/463_island_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/49_group_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/518_coin_change_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/528_random_index_with_weights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/53_maximum_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/543_diameter_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/560_subarray_sum_equals_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/567_permutation_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/599_min_index_sum_of_two_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/64_min_path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/6_zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/72_edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/733_flood_fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/787_cheapest_flight_cost_with_stops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/886_possible_bipartition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/88_merge_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/890_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/901_online_stock_span.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/929_unique_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/938_range_sum_of_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/957_prison_cells_after_n_days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/95_unique_bst_ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/986_intersecting_intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/98_validate_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/9_Palindrome_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Biweekly 51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Weekly 239.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Weekly 240.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/anagram groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/biweekly_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/biweekly_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/biweekly_27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/biweekly_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/biweekly_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/isCryptSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/longest substring with distinct characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/math135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/valid_path_in_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_198.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_191.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_192.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_193.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/weekly_contest_195.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1046_last_stone_weight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_most_water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/121_best_time_to_buy_and_sell_stocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/122_best_time_to_buy_and_sell_stock_ii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/124_binary_tree_max_path_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1252_odd_cells.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1304_n_ints_sum_to_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130_surrounded_regions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1337_kweakest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1390_four_divisors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1401_circle_and_rect_overlap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1419_min_number_of _frogs_croaking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150_polish_notation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/174_dungeon_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/189_rotate_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_two_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/208_implement_trie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/211_maximal_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_swap_nodes_in_pairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/263_ugly_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/300_longest_increasing_subsequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/322_coin_change.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_rotated_sorted_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/368_largest_divisible_subset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_valid_sudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38_count_and_say.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/402_remove_k_digits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/406_queue_reconstruction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/438_find_all_anagrams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45_jump_game_ii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/463_island_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_group_anagrams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/518_coin_change_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/528_random_index_with_weights.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_maximum_subarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/543_diameter_of_binary_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/560_subarray_sum_equals_k.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/567_permutation_in_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/599_min_index_sum_of_two_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64_min_path_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_zigzag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72_edit_distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/733_flood_fill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/787_cheapest_flight_cost_with_stops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/886_possible_bipartition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88_merge_sorted_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/890_pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/901_online_stock_span.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/929_unique_emails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/938_range_sum_of_bst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/957_prison_cells_after_n_days.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95_unique_bst_ii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/986_intersecting_intervals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/98_validate_bst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Palindrome_Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biweekly 51.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weekly 239.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weekly 240.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagram groups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biweekly_25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biweekly_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biweekly_27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biweekly_28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biweekly_29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isCryptSolution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/longest substring with distinct characters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math135.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid_path_in_binary_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/279_perfect_squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/basecommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/baseparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/operations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/1337_kweakest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/pip-10.0.1-py3.8.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/setuptools-39.1.0-py3.8.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_198.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_187.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_188.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_189.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_190.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_191.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_192.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_193.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly_contest_195.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +524,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -83,7 +544,26 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Weekly 240">
+  <component name="RunManager" selected="Python.01 Arrays and Strings">
+    <configuration name="01 Arrays and Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CTCI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CTCI/01 Arrays and Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Biweekly 51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,28 +630,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="isCryptSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isCryptSolution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="math135" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,19 +653,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.isCryptSolution" />
       <item itemvalue="Python.math135" />
       <item itemvalue="Python.Biweekly 51" />
       <item itemvalue="Python.Weekly 239" />
       <item itemvalue="Python.Weekly 240" />
+      <item itemvalue="Python.01 Arrays and Strings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01 Arrays and Strings" />
         <item itemvalue="Python.Weekly 240" />
         <item itemvalue="Python.Weekly 239" />
         <item itemvalue="Python.Biweekly 51" />
         <item itemvalue="Python.Biweekly 51" />
-        <item itemvalue="Python.math135" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +758,16 @@
       <workItem from="1620247008037" duration="34000" />
       <workItem from="1620247273033" duration="53000" />
       <workItem from="1620527389313" duration="1527000" />
+      <workItem from="1620940871916" duration="5418000" />
     </task>
+    <task id="LOCAL-00001" summary="Added new files">
+      <created>1620940921651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620940921651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -315,333 +782,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/33_rotated_sorted_array.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/33_rotated_sorted_array.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/322_coin_change.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1390_four_divisors.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/53_maximum_subarray.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/122_best_time_to_buy_and_sell_stock_ii.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/venv/include/279_perfect_squares.py</url>
           <line>17</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1046_last_stone_weight.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88_merge_sorted_array.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1401_circle_and_rect_overlap.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/64_min_path_sum.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1419_min_number_of _frogs_croaking.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1419_min_number_of _frogs_croaking.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/560_subarray_sum_equals_k.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/560_subarray_sum_equals_k.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/189_rotate_array.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/211_maximal_square.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/211_maximal_square.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/95_unique_bst_ii.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/124_binary_tree_max_path_sum.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/valid_path_in_binary_tree.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/98_validate_bst.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/38_count_and_say.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/biweekly_25.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/300_longest_increasing_subsequence.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
-          <line>77</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_187.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_188.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/733_flood_fill.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/402_remove_k_digits.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/438_find_all_anagrams.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/438_find_all_anagrams.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/567_permutation_in_string.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/567_permutation_in_string.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/901_online_stock_span.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/986_intersecting_intervals.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_190.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/886_possible_bipartition.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/biweekly_27.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_191.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_191.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/72_edit_distance.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/45_jump_game_ii.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/406_queue_reconstruction.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/518_coin_change_2.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/biweekly_28.py</url>
-          <line>121</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/368_largest_divisible_subset.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/787_cheapest_flight_cost_with_stops.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/787_cheapest_flight_cost_with_stops.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/130_surrounded_regions.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_193.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/174_dungeon_game.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/174_dungeon_game.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_contest_195.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/957_prison_cells_after_n_days.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="105" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/957_prison_cells_after_n_days.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/463_island_number.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/weekly_198.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weekly 239.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weekly 239.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -654,53 +806,54 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$263_ugly_number.coverage" NAME="263_ugly_number Coverage Results" MODIFIED="1593879645967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$contest_188.coverage" NAME="contest_188 Coverage Results" MODIFIED="1589079684013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$Weekly_239.coverage" NAME="Weekly 239 Coverage Results" MODIFIED="1619925246498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$986_intersecting_intervals.coverage" NAME="986_intersecting_intervals Coverage Results" MODIFIED="1590248071212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$Biweekly_51.coverage" NAME="Biweekly 51 Coverage Results" MODIFIED="1619881748991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_26.coverage" NAME="biweekly_26 Coverage Results" MODIFIED="1589643134853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_198.coverage" NAME="weekly_198 Coverage Results" MODIFIED="1602875813656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_190.coverage" NAME="weekly_contest_190 Coverage Results" MODIFIED="1590289562540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$biweekly_29.coverage" NAME="biweekly_29 Coverage Results" MODIFIED="1593269331333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$isCryptSolution.coverage" NAME="isCryptSolution Coverage Results" MODIFIED="1603166692911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$math135.coverage" NAME="math135 Coverage Results" MODIFIED="1605931899251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1588095981186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$368_largest_divisible_subset.coverage" NAME="368_largest_divisible_subset Coverage Results" MODIFIED="1592069894303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1588820743147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$438_find_all_anagrams.coverage" NAME="438_find_all_anagrams Coverage Results" MODIFIED="1589740703726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$211_maximal_square.coverage" NAME="211_maximal_square Coverage Results" MODIFIED="1588095974047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$45_jump_game_ii.coverage" NAME="45_jump_game_ii Coverage Results" MODIFIED="1591306079810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$901_online_stock_span.coverage" NAME="901_online_stock_span Coverage Results" MODIFIED="1589901367034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$174_dungeon_game.coverage" NAME="174_dungeon_game Coverage Results" MODIFIED="1592763349911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$463_island_number.coverage" NAME="463_island_number Coverage Results" MODIFIED="1594139335620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$518_coin_change_2.coverage" NAME="518_coin_change_2 Coverage Results" MODIFIED="1591575887988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$biweekly_contest_25.coverage" NAME="biweekly_contest_25 Coverage Results" MODIFIED="1588471665687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$886_possible_bipartition.coverage" NAME="886_possible_bipartition Coverage Results" MODIFIED="1590591945163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_193.coverage" NAME="weekly_contest_193 Coverage Results" MODIFIED="1592709010092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1588470870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_187.coverage" NAME="weekly_contest_187 Coverage Results" MODIFIED="1588478034084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$biweekly_27.coverage" NAME="biweekly_27 Coverage Results" MODIFIED="1590856463978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$733_flood_fill.coverage" NAME="733_flood_fill Coverage Results" MODIFIED="1589221370488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$567_permutation_in_string.coverage" NAME="567_permutation_in_string Coverage Results" MODIFIED="1589815953067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$406_queue_reconstruction.coverage" NAME="406_queue_reconstruction Coverage Results" MODIFIED="1591464307935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$787_cheapest_flight_cost_with_stops.coverage" NAME="787_cheapest_flight_cost_with_stops Coverage Results" MODIFIED="1592154050699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$Weekly_240.coverage" NAME="Weekly 240 Coverage Results" MODIFIED="1620528615453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$124_binary_tree_max_path_sum.coverage" NAME="124_binary_tree_max_path_sum Coverage Results" MODIFIED="1588170963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$957_prison_cells_after_n_days.coverage" NAME="957_prison_cells_after_n_days Coverage Results" MODIFIED="1593879533038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$208_implement_trie.coverage" NAME="208_implement_trie Coverage Results" MODIFIED="1589490224371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_189.coverage" NAME="weekly_contest_189 Coverage Results" MODIFIED="1589683906676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_191.coverage" NAME="weekly_contest_191 Coverage Results" MODIFIED="1590896838962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_195.coverage" NAME="weekly_contest_195 Coverage Results" MODIFIED="1593315468430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$38_count_and_say.coverage" NAME="38_count_and_say Coverage Results" MODIFIED="1588299969832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$weekly_contest_192.coverage" NAME="weekly_contest_192 Coverage Results" MODIFIED="1591497541455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$valid_path_in_binary_tree.coverage" NAME="valid_path_in_binary_tree Coverage Results" MODIFIED="1588248882182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$biweekly_28.coverage" NAME="biweekly_28 Coverage Results" MODIFIED="1592064584870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$402_remove_k_digits.coverage" NAME="402_remove_k_digits Coverage Results" MODIFIED="1589381926153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$528_random_index_with_weights.coverage" NAME="528_random_index_with_weights Coverage Results" MODIFIED="1591364740917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$130_surrounded_regions.coverage" NAME="130_surrounded_regions Coverage Results" MODIFIED="1592427356400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$95_unique_bst_ii.coverage" NAME="95_unique_bst_ii Coverage Results" MODIFIED="1588099675484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$98_validate_bst.coverage" NAME="98_validate_bst Coverage Results" MODIFIED="1588250381388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$72_edit_distance.coverage" NAME="72_edit_distance Coverage Results" MODIFIED="1590951141461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$263_ugly_number.coverage" NAME="263_ugly_number Coverage Results" MODIFIED="1593879645967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$contest_188.coverage" NAME="contest_188 Coverage Results" MODIFIED="1589079684013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$986_intersecting_intervals.coverage" NAME="986_intersecting_intervals Coverage Results" MODIFIED="1590248071212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_26.coverage" NAME="biweekly_26 Coverage Results" MODIFIED="1589643134853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$biweekly_29.coverage" NAME="biweekly_29 Coverage Results" MODIFIED="1593269331333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$math135.coverage" NAME="math135 Coverage Results" MODIFIED="1605931899251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1588095981186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$438_find_all_anagrams.coverage" NAME="438_find_all_anagrams Coverage Results" MODIFIED="1589740703726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$211_maximal_square.coverage" NAME="211_maximal_square Coverage Results" MODIFIED="1588095974047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$45_jump_game_ii.coverage" NAME="45_jump_game_ii Coverage Results" MODIFIED="1591306079810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$901_online_stock_span.coverage" NAME="901_online_stock_span Coverage Results" MODIFIED="1589901367034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1588470870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$733_flood_fill.coverage" NAME="733_flood_fill Coverage Results" MODIFIED="1589221370488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$406_queue_reconstruction.coverage" NAME="406_queue_reconstruction Coverage Results" MODIFIED="1591464307935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Weekly_240.coverage" NAME="Weekly 240 Coverage Results" MODIFIED="1620528615453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$124_binary_tree_max_path_sum.coverage" NAME="124_binary_tree_max_path_sum Coverage Results" MODIFIED="1588170963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_189.coverage" NAME="weekly_contest_189 Coverage Results" MODIFIED="1589683906676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$weekly_contest_195.coverage" NAME="weekly_contest_195 Coverage Results" MODIFIED="1593315468430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$38_count_and_say.coverage" NAME="38_count_and_say Coverage Results" MODIFIED="1588299969832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$valid_path_in_binary_tree.coverage" NAME="valid_path_in_binary_tree Coverage Results" MODIFIED="1588248882182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$130_surrounded_regions.coverage" NAME="130_surrounded_regions Coverage Results" MODIFIED="1592427356400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$98_validate_bst.coverage" NAME="98_validate_bst Coverage Results" MODIFIED="1588250381388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Data_Structures.coverage" NAME="Data Structures Coverage Results" MODIFIED="1620943986694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CTCI" />
   </component>
 </project>
