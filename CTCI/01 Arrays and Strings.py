@@ -47,17 +47,17 @@ def check_permutation2(s1, s2):
 def urlify(s):
     s = s.strip()
     flag = False
-    answer = ''
+    answer = []
     for c in s:
         if c == ' ' and flag:
             continue
         elif c == ' ':
             flag = True
-            answer += '%20'
+            answer.append('%20')
         else:
             flag = False
-            answer += c
-    return answer
+            answer.append(c)
+    return ''.join(answer)
 
 
 # 1.4
@@ -71,7 +71,17 @@ def palindrome_permutation(s):
             else:
                 seen[c] = 1
                 odd += 1 if seen[c] % 2 else - 1
-    return odd % 2 <= 1
+    return odd <= 1
+
+
+def palindrome_permutation1(s):
+    from collections import Counter
+    seen = Counter(s)
+    odd = 0
+    for c in seen:
+        if seen[c] % 2:
+            odd += 1
+    return odd <= 1
 
 
 # 1.5
@@ -93,15 +103,16 @@ def one_away(s1, s2):
 # 1.6
 def string_compression(s):
     i = 0
-    ans = ''
+    ans = []
     while i < len(s):
-        ans += s[i]
+        ans.append(s[i])
         count = 1
         i += 1
         while i < len(s) and s[i] == ans[-1]:
             i += 1
             count += 1
-        ans += str(count)
+        ans.append(str(count))
+    ans = ''.join(ans)
     return ans if len(ans) < len(s) else s
 
 
